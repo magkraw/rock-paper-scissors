@@ -1,0 +1,36 @@
+body {
+  background-color: #FCEAAE; }
+
+.text-center {
+  color: #444;
+  font-size: 28px;
+  margin-top: 40px;
+  padding-top: 20px; }
+
+.hello {
+  padding-bottom: 20px; }
+
+.btn {
+  font-size: 30px;
+  color: #444; }
+  .btn:hover {
+    color: #fff; }
+    .btn:hover .fa {
+      color: #fff; }
+
+.btn-default {
+  background-color: #FFFF66; }
+
+.fa {
+  color: #444;
+  font-size: 20px;
+  line-height: 36px; }
+
+.badge {
+  background-color: transparent;
+  border-radius: 50%;
+  color: #660033;
+  font-size: 30px;
+  width: 42px; }
+
+/*# sourceMappingURL=main.css.map */
